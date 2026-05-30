@@ -1,0 +1,8 @@
+google-cloud-bigquery
+pandas-gbq
+prophet
+xgboost
+scikit-learn
+pyarrow
+db-dtypes
+matplotlib
